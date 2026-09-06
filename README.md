@@ -26,4 +26,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
