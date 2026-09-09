@@ -36,4 +36,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
