@@ -44,14 +44,17 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1720-decode-xored-array](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/1720-decode-xored-array) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
