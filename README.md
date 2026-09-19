@@ -39,6 +39,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1720-decode-xored-array](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Array
