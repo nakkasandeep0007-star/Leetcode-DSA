@@ -27,6 +27,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0204-count-primes) |
 | [3870-count-commas-in-range](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0204-count-primes](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0204-count-primes) |
 | [1260-shift-2d-grid](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1720-decode-xored-array](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/1720-decode-xored-array) |
 ## Matrix
@@ -58,4 +60,24 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
