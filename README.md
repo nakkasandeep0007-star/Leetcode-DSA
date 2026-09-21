@@ -80,4 +80,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
