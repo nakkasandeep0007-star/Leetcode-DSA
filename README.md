@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nakkasandeep0007-star/Leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
